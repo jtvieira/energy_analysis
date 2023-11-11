@@ -9,7 +9,7 @@ The project should contain all required resources. After everything is installed
 
     python manage.py runserver
 
-*Note*: that you will need to be in the *week10-energy-analysis-jtvieira/energy* directory for this to work
+*Note*: that you will need to be in the *energy_analysis/energy* directory for this to work
 
 This will start the live server at *http://127.0.0.1:8000/*
 Simply navigate there and the content should load
